@@ -7,6 +7,9 @@ baseurl:             ''
 paginate:            5
 permalink:           pretty
 
+# Any theme possible?
+remote_theme: pool/lanyon
+
 # About/contact
 author:
   name:              Mark Otto
