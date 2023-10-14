@@ -17,6 +17,11 @@ title: Home
     <blockquote>
       {{ post.excerpt }}
     </blockquote>
+
+    {% if post.content.size > post.excerpt.size %}
+    <p><i>... more</i></p>
+    {% endif %}
+
   </div>
   {% endfor %}
 </div>
