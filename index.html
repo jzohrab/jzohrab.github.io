@@ -19,7 +19,7 @@ title: Home
     </blockquote>
 
     {% if post.content.size > post.excerpt.size %}
-    <p><i>... more</i></p>
+    <p><i><a href="{{ post.url | absolute_url }}">... more</a></i></p>
     {% endif %}
 
   </div>
