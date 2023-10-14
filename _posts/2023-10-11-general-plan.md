@@ -6,6 +6,12 @@ categories: lute
 
 Currently, I have a few main areas of work:
 
+* Lute v3: porting the project to Python
+* Fixing existing issues, adding small new features
+* Supporting new user installs
+
+<!--end_excerpt-->
+
 # Lute v3
 
 As mentioned in the [Project goal](https://github.com/jzohrab/lute/wiki/Project-goal) in the Lute wiki, Lute v3 will be written in Python.  I've started some work on that (the [Lute v3](https://github.com/jzohrab/lute_v3) repo in GitHub contains some initial scratches), but it's still a ways off.  No ETA in mind yet!
