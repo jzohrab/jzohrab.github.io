@@ -10,6 +10,12 @@ Lute is free software for learning foreign languages through reading that you in
 * [GitHub wiki](https://github.com/jzohrab/lute/wiki)
 * [Lute Discord](https://discord.gg/CzFUQP5m8u)
 
+## Lute v3
+
+Lute v3 is a total rewrite (sigh) of the current Lute in Python.  This is to help meet the [project goal](https://github.com/jzohrab/lute/wiki/Project-goal) of simpler installs and dev participation.
+
+The v3 repo is currently here: https://github.com/jzohrab/lute_v3
+
 ## Posts
 
 {% for post in site.categories.lute %}
