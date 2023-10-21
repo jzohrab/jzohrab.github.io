@@ -16,6 +16,14 @@ Lute v3 is a total rewrite (sigh) of the current Lute in Python.  This is to hel
 
 The v3 repo is currently here: https://github.com/jzohrab/lute_v3
 
+### Rewrite progress
+
+The bulk of the rewrite is driven by porting the PHP unit tests to Python, along with the code that makes the tests pass.
+
+![Burndown](/assets/lute/test_burndown.png)
+
+<!-- ref https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html -->
+
 ## Posts
 
 {% for post in site.categories.lute %}

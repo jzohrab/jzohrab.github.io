@@ -1,0 +1,14 @@
+Burndown is in
+
+https://docs.google.com/spreadsheets/d/1WTzNOprAnsMF8Y88oVoRu-E-wNtVXt_m006ZNRBXaxA/edit#gid=0
+
+Update the chart, then click dots in chart, download, and move to this folder:
+
+```
+pushd /path/to/lute/images/folder
+mv ~/Downloads/Tests\ remaining\ vs.\ Date.png test_burndown.png
+
+git add .
+git commit -m "Update chart"
+git push origin master
+```
