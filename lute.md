@@ -20,7 +20,7 @@ The v3 repo is currently here: https://github.com/jzohrab/lute_v3
 
 The bulk of the rewrite is driven by porting the PHP unit tests to Python, along with the code that makes the tests pass.
 
-![Burndown](/assets/lute/test_burndown.png)
+![Burndown](/docs/assets/lute/test_burndown.png)
 
 <!-- ref https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html -->
 
