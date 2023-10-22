@@ -22,6 +22,8 @@ The bulk of the rewrite is driven by porting the PHP unit tests to Python, along
 
 ![Burndown](/docs/assets/lute/test_burndown.png)
 
+_[Chart source](https://docs.google.com/spreadsheets/d/1WTzNOprAnsMF8Y88oVoRu-E-wNtVXt_m006ZNRBXaxA/edit?usp=sharing)_
+
 <!-- ref https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html -->
 
 ## Posts
