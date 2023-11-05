@@ -84,9 +84,13 @@ Open your web browser to http://localhost:5000 and do your thing ... then when d
 
 If you're feeling sassy, sure, _copy_ your data files from your current lute location to the `data path` shown in the "Starting Lute" message (or in the "software info" link on the main screen).
 
-**BUT** don't _move_ the data.
+**BUT** don't _move_ the data.  Two reasons:
 
-Lute v3 is pretty damn good, but it's still alpha.  I haven't dogfooded it yet on my own data ("dogfooding" = "use the crap I built so that I suffer firsthand any adverse effects, and am forced to fix them").  I've used it on test data, and the algorithms and tests are the same as were used in Lute v1 and v2, so it should be good.  But you never know!  And I'm going to repackage it eventually anyway for the real pypi release.
+1) Lute v3 makes a few changes to the db schema that v2 won't support.  If you move your db to v3, there's no moving back to v2 -- well, not trivially.
+
+2) Lute v3 is pretty damn good, but it's still alpha.  I haven't dogfooded[^1] it yet on my own data.  I've used it on test data, and the algorithms and tests are the same as were used in Lute v1 and v2, so it should be good.  But you never know!  And I'm going to repackage it eventually anyway for the real pypi release.
+
+[^1]: "dogfooding" = "use the crap I built so that I suffer firsthand any adverse effects, and am forced to fix them".
 
 # What's different?
 
