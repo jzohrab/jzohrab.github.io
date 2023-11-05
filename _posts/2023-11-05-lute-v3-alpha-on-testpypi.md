@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Lute v3 porting milestone
+title:  Lute v3 alpha release up on test.pypi.org
 categories: lute
 ---
 

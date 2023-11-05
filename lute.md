@@ -14,17 +14,11 @@ Lute is free software for learning foreign languages through reading that you in
 
 Lute v3 is a total rewrite (sigh) of the current Lute in Python.  This is to help meet the [project goal](https://github.com/jzohrab/lute/wiki/Project-goal) of simpler installs and dev participation.
 
-The v3 repo is currently here: https://github.com/jzohrab/lute_v3
+The v3 repo is currently here: https://github.com/jzohrab/lute_v3.  All of the tests are done, and it seems that all features are in place.  Phew!
 
-### Rewrite progress
+### Lute v3 is on TestPyPi
 
-The bulk of the rewrite is driven by porting the PHP unit tests to Python, along with the code that makes the tests pass.
-
-![Burndown](/docs/assets/lute/test_burndown.png)
-
-_[Chart source](https://docs.google.com/spreadsheets/d/1WTzNOprAnsMF8Y88oVoRu-E-wNtVXt_m006ZNRBXaxA/edit?usp=sharing)_
-
-<!-- ref https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html -->
+See the "Lute v3 alpha release up on test.pypi.org" post
 
 ## Posts
 
