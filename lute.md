@@ -6,19 +6,14 @@ permalink: /lute/
 
 Lute is free software for learning foreign languages through reading that you install on your machine.  It's free and open source, and always will be.
 
-* [GitHub repository](https://github.com/jzohrab/lute)
-* [GitHub wiki](https://github.com/jzohrab/lute/wiki)
+Lute was originally in PHP, but then was rewritten to Python to make user installation much easier, and hopefully drive some more developer participation.
+
+* [A short YouTube video](https://www.youtube.com/watch?v=7X3OkcljoCk) showing installation and usage.
+* [GitHub repository](https://github.com/jzohrab/lute-v3)
+* [The manual](https://jzohrab.github.io/lute-manual), with installation notes, usage, etc.
 * [Lute Discord](https://discord.gg/CzFUQP5m8u)
 
-## Lute v3
-
-Lute v3 is a total rewrite (sigh) of the current Lute in Python.  This is to help meet the [project goal](https://github.com/jzohrab/lute/wiki/Project-goal) of simpler installs and dev participation.
-
-The v3 repo is currently here: https://github.com/jzohrab/lute_v3.  All of the tests are done, and it seems that all features are in place.  Phew!
-
-### Lute v3 is on TestPyPi
-
-See the "Lute v3 alpha release up on test.pypi.org" post
+Lute v3 was launched Nov 2023.
 
 ## Posts
 
