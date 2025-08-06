@@ -7,6 +7,6 @@ When pushed to GitHub, GitHub actions build https://jzohrab.github.io/
 To make a new post:
 
 ```
-cd __posts
+cd _posts
 ./__new.sh filename-stuff
 ```
