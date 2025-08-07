@@ -76,3 +76,19 @@ B
   | C  | . | Dm | G7 |
   | C  | G7 |    |    |
 ```
+
+## Another approach
+
+From CVH's Discord, user Hana has this method, which again is a listening first approach:
+
+> 1. I pick 4-5 tunes, make a Youtube playlist
+> 2. Listen to them many times, so I can "play them in my head" and sing the melody
+> 3. Play along with the record, figure out chords, modulations, similarities to other tunes.
+> 4. Check some charts - did I get it right? Sometimes I need the chart to figure out the chords (Nuages), notice the differences between charts, listen to what they are really playing
+> 5. try to play with the recordings without the charts in the next days, also without the instrument in my hands, actively recall the record in my head repeatedly.
+> 6. Move on to the next batch of tunes
+
+I like this idea:
+
+* each 5-tune list is a small step forward, and could be done in a couple of weeks with daily practice.
+* the playlist could contain the 5 songs, then 5 different versions, then 5 again.  Multiple versions can have different feels and might trigger different associations.
