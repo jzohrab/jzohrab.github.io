@@ -1,0 +1,11 @@
+<h1>Posts tagged "{{ page.tag }}"</h1>
+
+{% assign posts_with_tag = site.tags[page.tag] | sort: "date" | reverse %}
+<ul>
+  {% for post in posts_with_tag %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <small>{{ post.date | date_to_string }}</small>
+    </li>
+  {% endfor %}
+</ul>
