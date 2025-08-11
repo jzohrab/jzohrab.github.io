@@ -2,6 +2,7 @@
 layout: post
 title:  My approach to the Van Hemert System Volume 2
 categories: guitar
+tags: christiaan-van-hemert
 ---
 
 For the past few months, I’ve been working on Volume 2 of the [Van Hemert System](https://vanhemertsystem.fws.store/) for learning Gypsy Jazz guitar.  I managed to work through the seven chapters rather quickly, and so am sharing my approach in hopes that it helps others in their practice.

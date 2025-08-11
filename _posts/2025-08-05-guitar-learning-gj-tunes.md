@@ -2,6 +2,7 @@
 layout: post
 title:  How I learn gypsy jazz tunes
 categories: guitar
+tags: repertoire
 ---
 
 Learning gypsy jazz guitar repertoire can be daunting when you first start out.  I've started learning tunes, and have an approach that seems to work for me.
