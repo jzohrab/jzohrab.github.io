@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Lute v3 launch thoughts
-categories: Lute
+categories: lute
 ---
 
 Lute v3 launched today.  Wow, that was a lot of work, so nice to have it done.
