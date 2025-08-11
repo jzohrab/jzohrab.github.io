@@ -24,7 +24,8 @@ cat <<EOF > "$filename"
 ---
 layout: post
 title:  TODO
-categories: TODO
+categories: [TODO]
+tags: [TODO]
 ---
 
 TODO
