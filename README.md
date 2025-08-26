@@ -9,8 +9,9 @@ When pushed to GitHub, GitHub actions build https://jzohrab.github.io/
 To make a new post:
 
 ```
-cd _posts
+pushd _posts
 ./__new.sh filename-stuff
+popd
 ```
 
 ## Running locally
@@ -25,4 +26,12 @@ and then to run:
 
 ```
 bundle exec jekyll serve
+```
+
+and the site runs:
+
+```
+...
+Server address: http://127.0.0.1:4000//
+Server running... press ctrl-c to stop.
 ```
