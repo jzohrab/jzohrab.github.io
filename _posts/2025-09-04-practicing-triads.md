@@ -11,7 +11,7 @@ There are various posts and videos about practicing triads for the guitar.  I've
 
 There are many posts about moving triads vertically (across the neck) and horizontally (up and down the neck), which are great; however, they're also potentially dull.  Dull things aren't fun to practice, so maybe a better approach is to quickly get through some dull stuff, and then try to use it.
 
-## The basics - drills for a single chord only
+## Part one: The basics - drills for a single chord only
 
 * Pick one chord from the circle of fifths (C, G, D, E, A, B, Gb, Db, Ab, Eb, Bb, F)
 
@@ -39,7 +39,7 @@ These drills are dull if you concentrate on them, but if you're playing _effortl
 
 Do just _one_ chord a day.  Keep a list of the chords you've done in the practice log, and move to the next chord on the next day.  Alternate major and minor, e.g. on day 1 do C, on day 2 Gm, etc ... then at the end of the circle of 5ths, do Cm, then G major, etc.  Do diminished at some point :-)
 
-## Actually using the triads
+## Part two: Actually using the triads
 
 I've found that drills and chord scales are only useful as an introduction, and then when actually using them, everything falls apart.  This drill makes you use them, at the pace you're able to.  It's tough, but it feels useful, and it's still musical!
 
