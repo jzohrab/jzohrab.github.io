@@ -37,4 +37,6 @@ TODO
 EOF
 
 
-echo "File '$filename' created."
+echo "File created:"
+P=`pwd`
+echo "${P}/${filename}"
