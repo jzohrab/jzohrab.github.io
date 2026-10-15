@@ -1,6 +1,6 @@
 ---
 layout: default
-tag: repertoire,
-permalink: /tags/repertoire,/
+tag: licks
+permalink: /tags/licks/
 ---
 {% include tag.html %}
